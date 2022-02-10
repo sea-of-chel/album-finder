@@ -23,7 +23,10 @@ $ npm run start
 
 1. Create a `.env` file in the project root.
 2. add these variables to your `.env` file:
+
 `LASTFM_API_KEY=9f6016e2207406e446de92a31485beb5`
+
 `URL_ROOT="https://ws.audioscrobbler.com/2.0/?method=album.search&album=believe&api_key="`
+
 3. restart your server.
 
